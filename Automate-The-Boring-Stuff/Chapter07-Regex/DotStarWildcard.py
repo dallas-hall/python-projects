@@ -1,6 +1,0 @@
-print('@@@ Dot Star Wildcard @@@')
-print('[INFO] This can be seen at https://www.regular-expressions.info/repeat.html')
-print('.* will match any character zero or more times.')
-print('.* is the same as {0,}')
-print('.+ will match any character one or more times.')
-print('.+ is the same as {1,}')

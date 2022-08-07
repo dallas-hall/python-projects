@@ -1,8 +1,0 @@
-print('@@@ Shorthand Character Classes @@@')
-print('[INFO] This can be seen at https://www.regular-expressions.info/shorthand.html')
-print('\d is [0-9]')
-print('\D is [^0-9]')
-print('\w is [0-9A-Za-z_]')
-print('\W is [^0-9A-Za-z_]')
-print(r'\s is [ \t\r\n\f]')
-print(r'\S is [^ \t\r\n\f]')
